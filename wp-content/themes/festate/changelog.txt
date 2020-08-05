@@ -1,0 +1,39 @@
+fEstate 1.0.7, 2018-08-05
+------------------------
+- display slider and homepage widgets only on static homepage
+- remove default demo content
+
+fEstate 1.0.6, 2018-02-02
+------------------------
+- add animations effect
+- add footer menu
+- improve Slider
+
+fEstate 1.0.5, 2017-06-24
+------------------------
+- update customizer button
+
+fEstate 1.0.4, 2017-06-21
+------------------------
+- add editor-style in style.css
+- update jquery-sldr handler name
+- use &hellip; instead of ...
+
+fEstate 1.0.3, 2017-06-02
+------------------------
+- fix issue with tags widget padding bottom
+- add FontAwesome css for sticky posts
+
+fEstate 1.0.2, 2017-05-23
+------------------------
+- add dt, dd css style
+- hide edit link when print
+
+fEstate 1.0.1, 2017-05-20
+------------------------
+- fix css issues with calendar
+- add print style
+
+fEstate 1.0.0, 2017-04-26
+------------------------
+- Initial release
